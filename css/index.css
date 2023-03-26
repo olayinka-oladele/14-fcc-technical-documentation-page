@@ -1,9 +1,30 @@
-/* Example of @import use
-This imports the `reset.css` file */
-@import "./reset.css";
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+section article {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 0.96em;
+}
+html, body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+@media only screen and (max-width: 400px)
+#main-doc {
+  margin-left: -10px;
+}
 
-/* For testing purposes, delete this code */
-body {
-  font-size: max(20vw, 400px);
-  width: min(20vw, 400px);
+@media only screen and (max-width: 815px)
+#main-doc {
+  position: relative;
+  margin-left: 0px;
+  margin-top: 270px;
 }
