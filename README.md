@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+> This is one of the required projects to earn a certificate, it serve as instruction or referencefor a topic.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,11 +8,26 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+# Built With
 
-## Live Demo
+- HTML5 form elements
+- `h1`, `select`, `form`, `button`, `div`, `span`
+- `textarea`, `label`, `ìnput`, `option`, `fieldset`, .
+- CSS properties
+- CSS Background for page aesthetic using background-color, `background-image`,
+  `box-shadow`, `background-position`,
+  background-repeat
+  `text-shadow`, etc.
+- `CSS Typography properties font-size`, `font-style`, `font-family`, `text-align`, `color`, etc
+- `CSS Box Model properties padding`, `margin`, `width`,`line-height`, `box-sizing`,`border` etc
+- CSS Positioning properties
+  `position`, `z-index`,
+- CSS Transitioning properties
+  `transition`.
+- CSS Pseudo properties
+  `::before`, `::after`
+
+## https://o-14-fcc-technical-documentation-page.netlify.app/
 
 [Live Demo Link](https://livedemo.com)
 
@@ -21,7 +36,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git git@github.com:olayinka-oladele/14-fcc-technical-documentation-page.git
 
 ```
 
@@ -65,14 +80,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-- [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
+- Instagram: [@olayinka-oladele](https://instagram.com/drhappylinkolayinka?igshid=YWYwM2I1ZDdmOQ==)
 
 ## 🤝 Contributing
 
@@ -86,8 +100,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
+- https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page
 - etc
 
 ## 📝 License
