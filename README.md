@@ -1,6 +1,6 @@
 # Project Name
 
-> This is one of the required projects to earn a certificate, it serve as instruction or referencefor a topic.
+> This is one of the required projects to earn a certificate, it serve as instruction or reference for a topic.
 
 ![screenshot](./app_screenshot.png)
 
